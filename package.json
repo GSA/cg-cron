@@ -1,7 +1,7 @@
 {
-  "name": "cf-cron",
+  "name": "datagov-cf-cron",
   "version": "0.0.1",
-  "description": "Run cron jobs in a Cloud Foundry app.",
+  "description": "Run Data.gov cron jobs in a Cloud Foundry app.",
   "main": "cf-cron.js",
   "scripts": {
     "start": "node cf-cron.js",
